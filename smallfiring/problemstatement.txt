@@ -1,0 +1,6 @@
+Description
+
+In Indian Army when a trainee practice small arm firing then the target is used to set in 50/100/200 meters. distance from the trainee after
+one round of firing one person run towards target to check accuracy of firing. every time firing and running and maintaining accuracy for
+multiple round is not easy task. so objective is to ease this process we create a AI and ML based software whenever multiple bullets will 
+hits the target we take image of that target and put in our application then score of each firing and grades will displayed on the screen.
